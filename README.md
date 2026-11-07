@@ -33,3 +33,19 @@ Comparação experimental de três pares de algoritmos:
 make all       # compila
 make bench     # gera results/*.csv
 make figuras   # gera figures/*.png
+```
+
+## Estrutura
+
+- `src/` — código em C
+- `results/` — benchmarks (CSV)
+- `figures/` — gráficos
+- `docs/` — relatório (LaTeX + PDF)
+- `scripts/` — automação
+
+## Ambiente
+
+- CPU: Codespaces x86_64 (2 vCPUs)
+- RAM: 8 GB
+- SO: Ubuntu Linux (container GitHub)
+- gcc: com `-O2 -std=gnu11`
