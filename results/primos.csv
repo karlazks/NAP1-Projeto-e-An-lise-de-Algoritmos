@@ -1,0 +1,10 @@
+N;ForcaBruta;t_FB(s);Fermat;t_Fermat(s);aceleracao
+7;primo;0.000000100;provavelmente_primo;0.000000411;0.2
+101;primo;0.000000240;provavelmente_primo;0.000000531;0.5
+1009;primo;0.000002184;provavelmente_primo;0.000000821;2.7
+10007;primo;0.000021611;provavelmente_primo;0.000001022;21.1
+100003;primo;0.000215813;provavelmente_primo;0.000001282;168.3
+1000003;primo;0.002300345;provavelmente_primo;0.000001663;1383.2
+10000019;primo;0.022021114;provavelmente_primo;0.000002755;7993.1
+100000007;primo;0.218867551;provavelmente_primo;0.000003016;72568.8
+1000000007;primo;2.222716698;provavelmente_primo;0.000003577;621391.1
